@@ -1,12 +1,19 @@
-.border{
+#border{
 	border-style: solid;
 	border-color:blue;
 	background:yellow;
 	border-width:1px;
 }
-.second{
+#second{
 	background:red;
+	border-style: solid;
+	border-color:blue;
+	border-width:1px;
+	
 }
-.third{
+#third{
 	background:green;
+	border-width:1px;
+	border-style: solid;
+	border-color:blue;
 }
