@@ -1,17 +1,17 @@
-#border{
+#yellow{
 	border-style: solid;
 	border-color:blue;
 	background:yellow;
 	border-width:1px;
 }
-#second{
+#red{
 	background:red;
 	border-style: solid;
 	border-color:blue;
 	border-width:1px;
 	
 }
-#third{
+#green{
 	background:green;
 	border-width:1px;
 	border-style: solid;
