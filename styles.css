@@ -1,1 +1,12 @@
-
+.border{
+	border-style: solid;
+	border-color:blue;
+	background:yellow;
+	border-width:1px;
+}
+.second{
+	background:red;
+}
+.third{
+	background:green;
+}
